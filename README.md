@@ -20,7 +20,7 @@ Quick Question is a lightweight web app that lets you create a single multiple-c
 ## 🚀 Try it Out
 - [Live Demo](https://samar1h.github.io/quick_question/)
 
-## 🏗 Tech Stack
+## 💻 Tech Stack
 - HTML, CSS, JavaScript (Vanilla)
 - Base64 encoding for storing question data in the URL
 
